@@ -10,7 +10,7 @@
   "author": "Leonardo Gatica <lgatica@protonmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@eclass/semantic-release-docker": "3.0.1",
+    "@eclass/semantic-release-docker": "4.0.0",
     "@eclass/semantic-release-sentry-releases": "3.0.0",
     "@semantic-release/changelog": "6.0.2",
     "@semantic-release/exec": "6.0.3",
