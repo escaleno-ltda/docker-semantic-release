@@ -12,10 +12,10 @@
   "dependencies": {
     "@eclass/semantic-release-docker": "4.0.0",
     "@eclass/semantic-release-sentry-releases": "3.0.0",
-    "@semantic-release/changelog": "6.0.3",
-    "@semantic-release/exec": "6.0.3",
-    "@semantic-release/git": "10.0.1",
-    "@semantic-release/gitlab": "12.0.2",
-    "semantic-release": "21.0.3"
+    "@semantic-release/changelog": "7.0.0",
+    "@semantic-release/exec": "7.1.0",
+    "@semantic-release/git": "11.0.1",
+    "@semantic-release/gitlab": "13.3.3",
+    "semantic-release": "25.0.9"
   }
 }
